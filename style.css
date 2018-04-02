@@ -874,7 +874,7 @@
 	.s-leva p:nth-child(2),
 	.s-leva p:nth-child(3) {
 	    margin-top: 15px;
-	    font-size: 140%;
+	    font-size: 130%;
 	}
 	.cv-dugme {
 	    width: 80px;
@@ -950,6 +950,7 @@
 @media screen and ( max-width: 360px ) {
 	.s-leva {
 		left: -580px;
+		top: 58vh;
 	}
 	#fp-nav.left {
 		transform: rotate(-90deg);
@@ -959,8 +960,8 @@
 		background: none;
 		background-color: transparent;
 	}
-	.s-leva {
-		top: 58vh;
+	.s-leva p:nth-child(3) {
+		margin-top: 5px;
 	}
 	.s2-slider, .s3-slider, .s4-slider {
 	    left: 65px;
@@ -997,7 +998,7 @@
 	    width: 90px;
 	}
 	.apps {
-		margin-top: 20px;
+		margin-top: 10px;
 	}
 	.krug,
 	.s-desna {
@@ -1040,4 +1041,14 @@
 	.s4-levo a {
 	    font-size: 120%;
 	}
+	.cv-dugme {
+	    width: 80px;
+	    margin-top: 5px;
+	    border-radius: 15px;
+	    font-size: 120%;
+	}
+	.s3-text {
+		margin-top: 10px;
+	
+}
 }
