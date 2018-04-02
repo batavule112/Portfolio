@@ -571,10 +571,10 @@
 	margin-top: 10px;
 }
 
-.cv-sredina p:nth-child(1) {
+/*.cv-sredina p:nth-child(1) {
 	text-align: start;
 }
-
+*/
 .cv-sredina h3 {
 	margin: 10px;
 	color: red;
@@ -1053,4 +1053,14 @@
 	.s3-text {
 		font-size: 130%;
 	}
+	.cv-sredina h3 {
+		margin: 5px 10px;
+	}
+	.cv-sredina p {
+		font-size: 90%;
+	}
+	.cv li {
+		font-size: 90%;
+	}
+
 }
