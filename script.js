@@ -3,6 +3,7 @@ location.hash = "#pocetna";
 tacke();
 setTimeout(prvaAnim, 500);
 setTimeout(function(){
+	// document.getElementsByClassName('pocetak')[0].style.transform = "translateY(-150vh)";
 	$('.pocetak').css({'transform': 'translateY(-150vh)'});
 }, 10);
 $('#wrapper').fullpage({
