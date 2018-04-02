@@ -950,7 +950,7 @@
 @media screen and ( max-width: 360px ) {
 	.s-leva {
 		left: -580px;
-		top: 58vh;
+		top: 55vh;
 	}
 	#fp-nav.left {
 		transform: rotate(-90deg);
