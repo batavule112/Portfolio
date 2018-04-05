@@ -67,7 +67,7 @@
 	transition: .5s;
 }
 
-.ikone svg:hover {
+.ikone svg:hover, .ikone svg:active {
 	transform: translateZ(30px);
 	color: #001f3f;
 }
