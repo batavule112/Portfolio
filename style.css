@@ -947,14 +947,14 @@
 		width: 400px;
 	}
 }
-@media screen and ( max-width: 360px ) {
+@media screen and ( max-width: 400px ) {
 	.s-leva {
 		left: -580px;
 		top: 53vh;
 	}
 	#fp-nav.left {
 		transform: rotate(-90deg);
-		height: 360px;
+		height: 400px;
 		left: 155px;
 		top: 92vh;
 		background: none;

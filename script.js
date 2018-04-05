@@ -62,7 +62,7 @@ $(window).bind('hashchange', function () {
     } else {
     	$('.s3-text').removeClass('s3-text-anim');
     	void $('.s3-text').offsetWidth;
-    	$('.s3-levo').css({'transform': 'translateX(-620px)'});
+    	$('.s3-levo').css({'transform': 'translateX(-600px)'});
     	$('.s3-slider').css({
 			'transform': 'translateZ(-60px) translatex(40px) translateY(20px)',
 			'visibility': 'hidden'
@@ -158,7 +158,7 @@ function aboutAnim() {
 }
 function mystuffAnim() {
 	$('.s3-text').addClass('s3-text-anim');
-	$('.s3-levo').css({'transform': 'translateX(620px)'});
+	$('.s3-levo').css({'transform': 'translateX(600px)'});
 	$('.s3-slider').css({
 		'visibility': 'visible',
 		'transform': 'translateZ(60px) translatex(-40px) translateY(-20px)'
