@@ -735,7 +735,7 @@
 	.s2-slider,
 	.s3-slider,
 	.s4-slider {
-		left: 510px;
+		left: 450px;
 		width: 55%;
 	}
 	.s3-levo {
@@ -756,8 +756,8 @@
 	.s2-slider,
 	.s3-slider,
 	.s4-slider {
-		left: 400px;
-		width: 55%;
+		left: 300px;
+		width: 60%;
 	}
 	.apps span:nth-child(2) {
 		margin: 15px 0 15px 30px;
@@ -789,6 +789,9 @@
 	.activeCV {
 		left: calc(100% - 550px);
 		width: 550px;
+	}
+	.ikone {
+		width: 25%;
 	}
 }
 @media screen and ( max-width: 768px ) {
