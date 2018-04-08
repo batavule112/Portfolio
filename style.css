@@ -434,6 +434,11 @@
 	width: 100%;
 	top: 0;
 	left: 0;
+	transition: .5s;
+}
+
+.s2-img img:hover {
+	transform: scale(1.1);
 }
 
 .filter,
@@ -628,12 +633,12 @@
 	height: 100%;
 	width: 100%;
 	display: none;
+	
 }
 
 .s3-img a img {
 	height: 100%;
 	width: 100%;
-	
 }
  
 .active-img {
@@ -794,7 +799,7 @@
 		width: 25%;
 	}
 }
-@media screen and ( max-width: 768px ) {
+@media screen and ( max-width: 881px ) {
 	.ikone {
     width: 40%;
 	}
