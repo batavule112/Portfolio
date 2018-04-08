@@ -940,9 +940,16 @@
 	.ikone svg {
 	    font-size: 40px;
 	}
+	.apps span {
+    	font-size: 80%;
+	}
+	.s3-dugme {
+	    height: 30px;
+	    width: 90px;
+	}
 	.apps span:nth-child(2),
 	.apps span:nth-child(3) {
-    	margin: 0 0 0 15px;
+    	margin: 0 0 0 10px;
 	}
 	.cv {
 		left: calc(100% + 400px);
@@ -953,6 +960,9 @@
 	.activeCV {
 		left: calc(100% - 400px);
 		width: 400px;
+	}
+	.portfolio {
+		left: 200px;
 	}
 }
 @media screen and ( max-width: 400px ) {
