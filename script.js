@@ -64,7 +64,7 @@ $(window).bind('hashchange', function () {
     	void $('.s3-text').offsetWidth;
     	$('.s3-levo').css({'transform': 'translateX(-600px)'});
     	$('.s3-slider').css({
-			'transform': 'translateZ(-60px) translatex(40px) translateY(20px)',
+			'transform': 'translateZ(-60px) translateX(40px) translateY(20px)',
 			'visibility': 'hidden'
 		});
 		$('.filter3').removeClass('otkrivac');
