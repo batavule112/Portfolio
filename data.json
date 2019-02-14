@@ -1,0 +1,1182 @@
+[
+    {
+        "name": "Alabama",
+        "abbreviation": "AL",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Alaska",
+        "abbreviation": "AK",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "American Samoa",
+        "abbreviation": "AS",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Arizona",
+        "abbreviation": "AZ",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Arkansas",
+        "abbreviation": "AR",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "California",
+        "abbreviation": "CA",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Colorado",
+        "abbreviation": "CO",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Connecticut",
+        "abbreviation": "CT",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Delaware",
+        "abbreviation": "DE",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "District Of Columbia",
+        "abbreviation": "DC",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Federated States Of Micronesia",
+        "abbreviation": "FM",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Florida",
+        "abbreviation": "FL",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Georgia",
+        "abbreviation": "GA",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Guam",
+        "abbreviation": "GU",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Hawaii",
+        "abbreviation": "HI",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Idaho",
+        "abbreviation": "ID",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Illinois",
+        "abbreviation": "IL",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Indiana",
+        "abbreviation": "IN",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Iowa",
+        "abbreviation": "IA",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Kansas",
+        "abbreviation": "KS",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Kentucky",
+        "abbreviation": "KY",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Louisiana",
+        "abbreviation": "LA",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Maine",
+        "abbreviation": "ME",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Marshall Islands",
+        "abbreviation": "MH",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Maryland",
+        "abbreviation": "MD",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Massachusetts",
+        "abbreviation": "MA",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Michigan",
+        "abbreviation": "MI",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Minnesota",
+        "abbreviation": "MN",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Mississippi",
+        "abbreviation": "MS",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Missouri",
+        "abbreviation": "MO",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Montana",
+        "abbreviation": "MT",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Nebraska",
+        "abbreviation": "NE",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Nevada",
+        "abbreviation": "NV",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "New Hampshire",
+        "abbreviation": "NH",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "New Jersey",
+        "abbreviation": "NJ",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "New Mexico",
+        "abbreviation": "NM",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "New York",
+        "abbreviation": "NY",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "North Carolina",
+        "abbreviation": "NC",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "North Dakota",
+        "abbreviation": "ND",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Northern Mariana Islands",
+        "abbreviation": "MP",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Ohio",
+        "abbreviation": "OH",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Oklahoma",
+        "abbreviation": "OK",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Oregon",
+        "abbreviation": "OR",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Palau",
+        "abbreviation": "PW",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Pennsylvania",
+        "abbreviation": "PA",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Puerto Rico",
+        "abbreviation": "PR",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Rhode Island",
+        "abbreviation": "RI",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "South Carolina",
+        "abbreviation": "SC",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "South Dakota",
+        "abbreviation": "SD",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Tennessee",
+        "abbreviation": "TN",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Texas",
+        "abbreviation": "TX",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Utah",
+        "abbreviation": "UT",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Vermont",
+        "abbreviation": "VT",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Virgin Islands",
+        "abbreviation": "VI",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Virginia",
+        "abbreviation": "VA",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Washington",
+        "abbreviation": "WA",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "West Virginia",
+        "abbreviation": "WV",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Wisconsin",
+        "abbreviation": "WI",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    },
+    {
+        "name": "Wyoming",
+        "abbreviation": "WY",
+        "data": [
+          { "prefix": "$", "value": "100", "sufix": "total" },
+          { "prefix": "$", "value": "200", "sufix": "total" },
+          { "prefix": "$", "value": "300", "sufix": "total" },
+          { "prefix": "$", "value": "400", "sufix": "total" },
+          { "prefix": "$", "value": "500", "sufix": "total" },
+          { "prefix": "$", "value": "600", "sufix": "total" },
+          { "prefix": "$", "value": "700", "sufix": "total" },
+          { "prefix": "$", "value": "800", "sufix": "total" },
+          { "prefix": "$", "value": "900", "sufix": "total" },
+          { "prefix": "$", "value": "1000", "sufix": "total" },
+          { "prefix": "$", "value": "1100", "sufix": "total" },
+          { "prefix": "$", "value": "1200", "sufix": "total" }
+        ],
+        "mailto": "test@test.me",
+        "external_link": "https://google.com"
+    }
+]
