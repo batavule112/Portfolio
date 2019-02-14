@@ -11,10 +11,7 @@
           { "prefix": "$", "value": "600", "sufix": "total" },
           { "prefix": "$", "value": "700", "sufix": "total" },
           { "prefix": "$", "value": "800", "sufix": "total" },
-          { "prefix": "$", "value": "900", "sufix": "total" },
-          { "prefix": "$", "value": "1000", "sufix": "total" },
-          { "prefix": "$", "value": "1100", "sufix": "total" },
-          { "prefix": "$", "value": "1200", "sufix": "total" }
+          { "prefix": "$", "value": "900", "sufix": "total" }
         ],
         "mailto": "test@test.me",
         "external_link": "https://google.com"
@@ -1105,16 +1102,7 @@
         "data": [
           { "prefix": "$", "value": "100", "sufix": "total" },
           { "prefix": "$", "value": "200", "sufix": "total" },
-          { "prefix": "$", "value": "300", "sufix": "total" },
-          { "prefix": "$", "value": "400", "sufix": "total" },
-          { "prefix": "$", "value": "500", "sufix": "total" },
-          { "prefix": "$", "value": "600", "sufix": "total" },
-          { "prefix": "$", "value": "700", "sufix": "total" },
-          { "prefix": "$", "value": "800", "sufix": "total" },
-          { "prefix": "$", "value": "900", "sufix": "total" },
-          { "prefix": "$", "value": "1000", "sufix": "total" },
-          { "prefix": "$", "value": "1100", "sufix": "total" },
-          { "prefix": "$", "value": "1200", "sufix": "total" }
+          { "prefix": "$", "value": "300", "sufix": "total" }
         ],
         "mailto": "test@test.me",
         "external_link": "https://google.com"
